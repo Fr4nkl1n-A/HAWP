@@ -31,5 +31,3 @@ This repository contains all the files, configurations, and documentation for de
 
 ## Next Steps
 - Follow the deployment steps in the `Documentation` folder.
-- Use configurations provided in the `Configurations` folder.
-
